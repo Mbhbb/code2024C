@@ -1,0 +1,5 @@
+﻿  test-11.c
+E:\code\2024c\test-011\test-011\test-11.c(32,16): warning C4013: “rand”未定义；假设外部返回 int
+E:\code\2024c\test-011\test-011\test-11.c(172,2): warning C4013: “srand”未定义；假设外部返回 int
+E:\code\2024c\test-011\test-011\test-11.c(142,1): warning C4716: “login”: 必须返回一个值
+  test-011.vcxproj -> E:\code\2024c\test-011\test-011\x64\Debug\test-011.exe

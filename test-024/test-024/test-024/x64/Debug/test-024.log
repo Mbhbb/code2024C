@@ -1,0 +1,3 @@
+﻿  test24.c
+E:\code\2024c\test-024\test-024\test24.c(74,51): warning C4133: “函数”: 从“char *”到“const int *”的类型不兼容
+  test-024.vcxproj -> E:\code\2024c\test-024\test-024\x64\Debug\test-024.exe
